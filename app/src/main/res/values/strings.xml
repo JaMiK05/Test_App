@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Quiz</string>
+    <string name="app_pp" tools:ignore="TypographyDashes">https://www.freeprivacypolicy.com/live/35a45427–9122-4e0b-93df-1189fb41c877</string>
+    <string name="GITA_o_quv_markazi_android_flutter_bootcamp_kursi_n3_darsda_tayyorlangan_dastur">GITA o\'quv markazi \'Android + Flutter Bootcamp\' kursi\n6 - darsda tayyorlangan dastur.</string>
+    <string name="test_ilova_xaqida">Bu Test ilovasi Dastrulash tillarida oz blimingizni tekshirib korishingiz maqsadida tuzub chiqildi</string>
+    <string name="dastur_tuzuvchisi_n_ikromov_jamshidbek">Dastur tuzuvchisi \n Ikromov Jamshidbek</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

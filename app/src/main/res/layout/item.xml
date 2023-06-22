@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:layout_margin="10dp"
+    android:background="@drawable/item_tr"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/item_savol"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:justificationMode="inter_word"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        tools:ignore="UnusedAttribute"
+        tools:text="1 savolo ma gaf bolla tincmisila buvottimi iwla" />
+
+    <TextView
+        android:id="@+id/item_javob"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+        android:justificationMode="inter_word"
+        android:paddingHorizontal="15dp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        tools:ignore="UnusedAttribute"
+        tools:text="1 savolo ma gaf bolla tincmisila buvottimi iwla" />
+
+</LinearLayout>
